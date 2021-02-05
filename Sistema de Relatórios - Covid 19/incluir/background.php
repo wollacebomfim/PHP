@@ -1,0 +1,1 @@
+<center><img src="./img/qca.jpg" width="auto" height="auto"></center>
